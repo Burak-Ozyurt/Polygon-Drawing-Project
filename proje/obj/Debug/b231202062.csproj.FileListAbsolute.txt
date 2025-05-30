@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\b231202062.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\b231202062.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\b231202062.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\proje.exe
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\proje.pdb
+C:\Users\ThinkPad\Desktop\C#\proje\proje\bin\Debug\proje.exe.config
+C:\Users\ThinkPad\Desktop\C#\proje\proje\bin\Debug\proje.exe
+C:\Users\ThinkPad\Desktop\C#\proje\proje\bin\Debug\proje.pdb
+C:\Users\ThinkPad\Desktop\C#\proje\proje\obj\Debug\b231202062.Form1.resources
